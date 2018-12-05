@@ -46,7 +46,7 @@ class App extends Component {
 
         </header>
       </div>
-      
+    
       <NavBarPlaying/>
       </div>
     );
